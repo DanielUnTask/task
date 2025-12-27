@@ -1,0 +1,7 @@
+# Project place file
+/Task.rbxlx
+/default.project.json
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
