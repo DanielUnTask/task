@@ -1,8 +1,8 @@
 [package]
 name = "danielUnTask/task"
+description = "Lightweight task scheduler with coroutine pooling."
 version = "0.1.0"
-description = "Lightweight task scheduler with coroutine pooling for Roblox"
 License = "MIT"
+authors = ["Daniel Olvera"]
 registry = "https://github.com/UpliftGames/wally-index"
-
-[dependencies]
+realm = "shared"

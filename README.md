@@ -1,2 +1,2 @@
 # task
-Lightweight task scheduler with coroutine pooling for Roblox
+Lightweight task scheduler with coroutine pooling.
