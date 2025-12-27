@@ -1,9 +1,9 @@
 [package]
-name = "DanielUnTask/task"
+name = "danieluntask/task"
 description = "Lightweight task scheduler with coroutine pooling."
 version = "0.1.0"
 License = "MIT"
-authors = ["Daniel Olvera"]
+authors = ["Gamer32yttea"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 exclude = ["rokit.toml", "README.md", "selene.toml", "sourcemap.json", "LICENSE", "default.project.json", ".gitignore"]
