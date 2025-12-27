@@ -1,5 +1,5 @@
 [package]
-name = "danielUnTask/task"
+name = "DanielUnTask/task"
 description = "Lightweight task scheduler with coroutine pooling."
 version = "0.1.0"
 License = "MIT"
