@@ -4,6 +4,5 @@ version = "0.1.0"
 description = "Lightweight task scheduler with coroutine pooling for Roblox"
 License = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
-realm = "shared"
 
 [dependencies]
