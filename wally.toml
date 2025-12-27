@@ -6,3 +6,4 @@ License = "MIT"
 authors = ["Daniel Olvera"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+exclude = ["rokit.toml", "README.md", "selene.toml", "sourcemap.json", "LICENSE", "default.project.json", ".gitignore"]
